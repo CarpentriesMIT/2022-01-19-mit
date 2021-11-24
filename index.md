@@ -224,6 +224,10 @@ special instructions.
 </p>
 {% endif %}
 
+<h2>Registration</h2>
+<p> {% comment %} Please register for the workshop at <a href = "https://libcal.mit.edu/calendar/events/carpentries2021-02-04">https://libcal.mit.edu/calendar/events/carpentries2021-02-04</a>.{% endcomment %}
+Registration opens on January 7, 2022. </p>
+
 {% comment %}
 CONTACT EMAIL ADDRESS
 
