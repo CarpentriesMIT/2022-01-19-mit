@@ -188,7 +188,7 @@ Modify the block below if there are any special requirements.
     Participants must have access to a computer with a
     Mac, Linux, or Windows operating system (not a tablet, Chromebook, etc.) that they have administrative privileges on.
   {% endif %}
-  They should have a few specific software packages installed. 
+  They should have a few specific software packages installed.
 
   High speed internet connection and Zoom access are necessary to participate in this online workshop. An optional mobile device or a secondary display is helpful with monitoring the instructor's screen and live coding simultaneously, but it's not required. (listed <a href="#setup">below</a>).
 </p>
@@ -225,8 +225,12 @@ special instructions.
 {% endif %}
 
 <h2>Registration</h2>
-<p> {% comment %} Please register for the workshop at <a href = "https://libcal.mit.edu/calendar/events/carpentries2021-02-04">https://libcal.mit.edu/calendar/events/carpentries2021-02-04</a>.{% endcomment %}
-Registration opens on January 7, 2022. </p>
+<p> Registration for <b>MIT affiliates opens on 12pm ET Monday, December 13, 2021.</b> </p>
+<p> Registration for <b>people not affiliated with MIT opens on Friday, January 7, 2022.</b> 
+<p> Please register for the workshop at <a href = "https://libcal.mit.edu/calendar/events/carpentries2022-01-19">https://libcal.mit.edu/calendar/events/carpentries2022-01-19</a>.</p>
+
+<p>You are expected to attend the workshop on all four sessions from Jan 19 - 21. If you can no longer make it to the workshop, please be sure to cancel your registration since we may have a long waiting list. Thank you!  </p>
+
 
 {% comment %}
 CONTACT EMAIL ADDRESS
