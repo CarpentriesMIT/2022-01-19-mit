@@ -14,7 +14,7 @@ humantime: "Jan 19: 12:30 - 17:00  ET; Jan 20: 8:30 - 17:00 ET; Jan 21: 13:00- 1
 startdate: 2022-01-19      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
 enddate: 2022-01-21        # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
 instructor: ["Phoebe Ayers", "Ye Li", "Christine Malinowski", "Daniel Sheehan", "Ece Turnator"] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
-helper: ["Jack Cavanagh", "Elizabeth Kuhlman", "Ye Li", "Sadie Roosa", "Mark Szarko", "Ece Turnator", "Barbara Williams"]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
+helper: ["Jack Cavanagh", "Elizabeth Kuhlman", "Ye Li", "Jack Payette", Sadie Roosa", "Mark Szarko", "Ece Turnator", "Barbara Williams"]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
 email: ["yel@mit.edu","turnator@mit.edu"]    # boxed, comma-separated list of contact email addresses for the host, lead instructor, or whoever else is handling questions, like ["marlyn.wescoff@example.org", "fran.bilas@example.org", "ruth.lichterman@example.org"]
 collaborative_notes: https://pad.carpentries.org/2022-01-19-mit
 eventbrite:           # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
